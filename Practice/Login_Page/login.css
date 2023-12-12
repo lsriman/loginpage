@@ -1,0 +1,38 @@
+
+.cont{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(109, 140, 243);
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+
+.cont1{
+    text-align: center;
+    padding: 20px;
+    width: 200px;
+    height: 400px;
+    background-color: rgb(47, 77, 247);
+    border-radius: 10px;
+    
+}
+
+h1{
+    color: white !important;
+}
+
+label{
+    margin: 20px;
+    color: white !important;
+}
+input{
+    margin: 20px;
+}
+p{
+    color: white !important;
+}
+
